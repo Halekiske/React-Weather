@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//Halekiske.github.io/React-Weather/static/css/main.10dadacd.css",
-    "main.js": "/http//Halekiske.github.io/React-Weather/static/js/main.62fa5ce9.js",
-    "static/js/787.b30f2593.chunk.js": "/http//Halekiske.github.io/React-Weather/static/js/787.b30f2593.chunk.js",
-    "index.html": "/http//Halekiske.github.io/React-Weather/index.html",
-    "main.10dadacd.css.map": "/http//Halekiske.github.io/React-Weather/static/css/main.10dadacd.css.map",
-    "main.62fa5ce9.js.map": "/http//Halekiske.github.io/React-Weather/static/js/main.62fa5ce9.js.map",
-    "787.b30f2593.chunk.js.map": "/http//Halekiske.github.io/React-Weather/static/js/787.b30f2593.chunk.js.map"
+    "main.css": "/React-Weather/static/css/main.10dadacd.css",
+    "main.js": "/React-Weather/static/js/main.f1300d80.js",
+    "static/js/787.b30f2593.chunk.js": "/React-Weather/static/js/787.b30f2593.chunk.js",
+    "index.html": "/React-Weather/index.html",
+    "main.10dadacd.css.map": "/React-Weather/static/css/main.10dadacd.css.map",
+    "main.f1300d80.js.map": "/React-Weather/static/js/main.f1300d80.js.map",
+    "787.b30f2593.chunk.js.map": "/React-Weather/static/js/787.b30f2593.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10dadacd.css",
-    "static/js/main.62fa5ce9.js"
+    "static/js/main.f1300d80.js"
   ]
 }
