@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//Halekiske.github.io/React-Weather/static/css/main.10dadacd.css",
+    "main.js": "/http//Halekiske.github.io/React-Weather/static/js/main.62fa5ce9.js",
+    "static/js/787.b30f2593.chunk.js": "/http//Halekiske.github.io/React-Weather/static/js/787.b30f2593.chunk.js",
+    "index.html": "/http//Halekiske.github.io/React-Weather/index.html",
+    "main.10dadacd.css.map": "/http//Halekiske.github.io/React-Weather/static/css/main.10dadacd.css.map",
+    "main.62fa5ce9.js.map": "/http//Halekiske.github.io/React-Weather/static/js/main.62fa5ce9.js.map",
+    "787.b30f2593.chunk.js.map": "/http//Halekiske.github.io/React-Weather/static/js/787.b30f2593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10dadacd.css",
+    "static/js/main.62fa5ce9.js"
+  ]
+}
